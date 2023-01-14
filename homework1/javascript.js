@@ -38,3 +38,6 @@ console.log('userAge', userAgeNew);
 
 const petName = 'Jack';
 console.log('My dog name', petName); 
+
+const result = 10 < 5;
+console.log('Resoult', result);
