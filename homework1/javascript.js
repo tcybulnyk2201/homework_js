@@ -41,3 +41,14 @@ console.log('My dog name', petName);
 
 const result = 10 < 5;
 console.log('Resoult', result);
+
+
+// Преобразование 
+
+let myMoney = 100;
+console.log('my money', myMoney);
+console.log('typeof my money', typeof myMoney);
+
+myMoney = String(myMoney);
+console.log('my money', myMoney);
+console.log('typeof my money', typeof myMoney);
