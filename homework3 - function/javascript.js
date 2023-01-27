@@ -86,7 +86,7 @@ function greetings() {
 greetings();
 greetings();
 
-// Задание 4
+// Задание 4/2
 
 const whichDay1 = Number(prompt('Введите число, чтобы узнать день недели'));
 
